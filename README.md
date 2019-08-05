@@ -4,10 +4,10 @@ This repository contains my notes for Cisco's [CCDP ARCH (300-320) v3.0 exam](ht
 ## Topics
 1. [Enterprise Campus Design](/enterprise-campus-design.md)
 2. [Routing Protocol Design](/routing-protocol-design.md)
-  2a. EIGRP
-  2b. OSPF
-  2c. ISIS
-  2d. BGP
+  a. EIGRP
+  b. OSPF
+  c. ISIS
+  d. BGP
 3. [IPv6](/ipv6.md)
 4. [Managed VPNs](/managed-vpns.md)
 5. [WAN Design](/wan-design.md)
