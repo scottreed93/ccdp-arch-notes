@@ -4,10 +4,6 @@ This repository contains my notes for Cisco's [CCDP ARCH (300-320) v3.0 exam](ht
 ## Topics
 1. [Enterprise Campus Design](/enterprise-campus-design.md)
 2. [Routing Protocol Design](/routing-protocol-design.md)
-  * EIGRP
-  * OSPF
-  * ISIS
-  * BGP
 3. [IPv6](/ipv6.md)
 4. [Managed VPNs](/managed-vpns.md)
 5. [WAN Design](/wan-design.md)
@@ -15,3 +11,8 @@ This repository contains my notes for Cisco's [CCDP ARCH (300-320) v3.0 exam](ht
 7. [QoS](/qos.md)
 8. [Multicast](/multicast.md)
 9. [Security](/security.md)
+
+## Contributions
+
+## Thankyou
+* Tyler Christiansen ([supertylerc](https://github.com/supertylerc)) for the [study format idea](https://github.com/supertylerc/jncip-dc-notes)
