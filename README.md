@@ -15,4 +15,4 @@ This repository contains my notes for Cisco's [CCDP ARCH (300-320) v3.0 exam](ht
 ## Contributions
 
 ## Thankyou
-* Tyler Christiansen ([supertylerc](https://github.com/supertylerc)) for the [study format idea](https://github.com/supertylerc/jncip-dc-notes)
+* Tyler Christiansen ([supertylerc](https://github.com/supertylerc)) for the [study note idea](https://github.com/supertylerc/jncip-dc-notes)
