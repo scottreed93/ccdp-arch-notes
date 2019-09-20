@@ -36,10 +36,10 @@ Allows for adding new services without a major network upgrades, this supports:
 #### Network Virtualisation Technologies
 * **VLANs** - Can be dynamically mapped to a switchport using RADIUS attributes following a 802.1X, MAB or Webauth successful authentication
 * **VRF** - Provides virtual routers with independant control planes
- * **Hop-by-hop VRF-Lite** - 802.1Q trunks, SVI/Routed subinterface to VRF mappings
- * **Hop-by-hop easy virtual network (EVN)**
- * **Multihop GRE tunnelling** - Map each VRF to a GRE tunnel interface
- * **Multihop MPLS core** - MPBGP, LDP
+  * **Hop-by-hop VRF-Lite** - 802.1Q trunks, SVI/Routed subinterface to VRF mappings
+  * **Hop-by-hop easy virtual network (EVN)**
+  * **Multihop GRE tunnelling** - Map each VRF to a GRE tunnel interface
+  * **Multihop MPLS core** - MPBGP, LDP
 
 ### Resiliency
 Three kinds to consider - network, device and operational
